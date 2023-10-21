@@ -1,6 +1,6 @@
 # 2023-minimum-Wage-by-countries
 ![A map showing louxembourg and surrounding contries](Intro_map.jpg)
-Brief analysis of top minimum wages by Countries for the year 2023
+This Repository contains a brief analysis of top minimum wages by Countries for the year 2023. #minimum-wage 
 ## Introduction
 This analysis was inspired by recent journey into the job market, whilst trying to figure out how best to utilise my skills in the global market and the visualisation utilised here was from a tweet by [DohBams](https://twitter.com/DOh_Bams) i had bookmarked years prior.
 
