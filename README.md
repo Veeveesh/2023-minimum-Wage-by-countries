@@ -1,5 +1,5 @@
 # 2023-minimum-Wage-by-countries
-![](Intro_map.jpg)
+![A map showing louxembourg and surrounding contries](Intro_map.jpg)
 Brief analysis of top minimum wages by Countries for the year 2023
 ## Introduction
 This analysis was inspired by recent journey into the job market, whilst trying to figure out how best to utilise my skills in the global market and the visualisation utilised here was from a tweet by [DohBams](https://twitter.com/DOh_Bams) i had bookmarked years prior.
@@ -26,6 +26,7 @@ The following Microsoft Excel skills were integrated:
 - Sorted the column "Annual Minimum wages" by smallest to largest
 - Changed the Datatype of  "Annual Minimum wages" to Currency $
 
+_[Attached](https://drive.google.com/file/d/1p3ktQNfwmYJDSRMbg7W7A926vH-lgsr2/view?usp=share_link) is a copy of the cleaned and transformed Data_
 ## Data Analysis and Visuals
 - Created columns "Helper" and "label"
 - Inserted an empty row just beneath the column headers, 
@@ -35,5 +36,5 @@ The following Microsoft Excel skills were integrated:
 - The visualisation used is called a **Radial Chart** and is a derivative of the Donot Chart
 
 
-You can interact with this report [here](https://drive.google.com/file/d/1QP85ZtlC7K_Oi_9A16nhOME2PzSojK4v/view?usp=share_link)
+You can check out the report [here](https://drive.google.com/file/d/1QP85ZtlC7K_Oi_9A16nhOME2PzSojK4v/view?usp=share_link)
 ![](Thanks.jpg)
