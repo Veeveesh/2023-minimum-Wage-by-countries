@@ -25,10 +25,11 @@ The following Microsoft Excel skills were integrated:
 - Edited the Columd header of "minimumWageByCountry_annualMinimalWageEarnings" to Annual Minimum wages"
 - Filters the Dataset to reflect only the top 10
 - Sorted the column "Annual Minimum wages" by smallest to largest
-- Changed the Datatype of  "Annual Minimum wages" to Currency $
+- Changed the Datatype of  "Annual Minimum wages" to Currency
+
  Initial datatype                | final datatype           
 :-------------------------------:|:-------------------------------:
-![](Initial_Datatype.png)        |   ![](Final_Datatype.png)      
+![Initial datatype showing general](Initial_Datatype.png)        |   ![Final datatype reflecting currency](Final_Datatype.png)      
 
 _[Attached](https://drive.google.com/file/d/1p3ktQNfwmYJDSRMbg7W7A926vH-lgsr2/view?usp=share_link) is a copy of the cleaned and transformed Data_
 ## Data Analysis and Visuals
@@ -39,6 +40,7 @@ _[Attached](https://drive.google.com/file/d/1p3ktQNfwmYJDSRMbg7W7A926vH-lgsr2/vi
 - The column "Label" contains the concatenated values of the country and their annual minimum wage
 ![Formatted table showing helper and label columns](Formatted_table.jpg)
 - The visualisation used is called a **Radial Chart** and is a derivative of the Donot Chart
+
 ![Editing of the donot chart](Editing_Chart.png)
 ![Final Visualisaation using diverging colours](Visuals.jpg)
 
